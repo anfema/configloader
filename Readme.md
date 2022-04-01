@@ -5,7 +5,7 @@
 add via pip:
 
 ```
-pip install https://github.com/anfema/configloader/releases/1.0/
+pip install https://github.com/anfema/configloader/releases/1.0/download/configloader-1.0.0-py3-none-any.whl
 ```
 
 ## Usage

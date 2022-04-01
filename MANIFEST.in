@@ -1,0 +1,7 @@
+include pyproject.toml
+include README.md
+include LICENSE.md
+
+recursive-exclude test *
+
+global-exclude *.py[cod]
